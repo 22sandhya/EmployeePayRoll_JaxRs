@@ -1,4 +1,4 @@
-package com.bl.emp.Project_Emp.controller;
+package com.bl.emp.projectemp.controller;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
@@ -11,8 +11,8 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import com.bl.emp.Project_Emp.model.EmpModel;
-import com.bl.emp.Project_Empservice.EmpService;
+import com.bl.emp.projectemp.model.EmpModel;
+import com.bl.emp.projectempservice.EmpService;
 @Path("emp")
 public class EmpController {
 

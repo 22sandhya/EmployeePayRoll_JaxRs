@@ -1,4 +1,4 @@
-package com.bl.emp.Project_Empservice;
+package com.bl.emp.projectempservice;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-import com.bl.emp.Project_Emp.model.EmpModel;
+import com.bl.emp.projectemp.model.EmpModel;
 
 
 public class EmpService {

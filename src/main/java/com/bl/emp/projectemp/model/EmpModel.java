@@ -1,4 +1,4 @@
-package com.bl.emp.Project_Emp.model;
+package com.bl.emp.projectemp.model;
 
 public class EmpModel {
 
